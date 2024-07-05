@@ -1,1 +1,1 @@
-This is a sample file to use the upload file option on GitHub.
+This file has been uploaded into my GitHub account to learn to use "the upload file" tool.
